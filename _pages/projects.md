@@ -13,6 +13,10 @@ During the first year of the [StatML](https://statml.io/) CDT I conducted reasea
 
 Mini-Project No.1
 ======
+- **Title:** Scalable Bayesian Spatial Model for Lesion Mapping of Multiple Sclerosis
+- **Research Areas:** Bayesian Approximate Learning, EM Algorithm, Spatial Statistics, Longitudinal Data, Regression Modelling, Multiple Sclerosis
 
 Mini-Project No.2
 ======
+- **Title:** Scalar-on-image Regression Modelling for Brain Age Prediction with Application to the UK Biobank
+- **Research Areas:** Multi-View Learning, Nonparametric Bayesian Statistics, Factor Analysis, Bayesian Approximate Learning, EM Algorithm, Scalable Gaussian Processes, Brain Age Prediction
