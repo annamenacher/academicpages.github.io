@@ -21,7 +21,7 @@ Mini-Project No.2
 - **Title:** Scalar-on-image Regression Modelling for Brain Age Prediction with Application to the UK Biobank
 - **Research Areas:** Multi-View Learning, Nonparametric Bayesian Statistics, Factor Analysis, Bayesian Approximate Learning, EM Algorithm, Scalable Gaussian Processes, Brain Age Prediction
 
-Current PhD Project: 
+Current PhD Project
 ======
 - **Title:** Bayesian Lesion Estimation with a Structured Spike-and-Slab Prior (BLESS)
 - **Research Areas:** Variational Inference, Spatial Statistics, Bayesian Regression Modelling, Spike-and-Slab, Variable Selection, Brain Lesion Mapping, High-dimensional Data, UK Biobank Application
