@@ -21,6 +21,10 @@ Education
 
 Work experience
 ======
+* **Teaching Assistant (2020 - Today)**
+  * Department of Statistics at the University of Oxford
+  * Taught tutorials for undergraduate/postgraduate statistics course 'Applied Statistics'.
+
 * **Data Science Intern (2019)**
   * e.fundamentals in Edinburgh, UK
   * Postgraduate disseration on predictive sale forecasting in collaboration with an eCommerce analytics company. 
@@ -35,10 +39,16 @@ Work experience
 
 Awards & Scholarships
 ======
+* Merit Abstract Award for the OHBM (Organisation for Human Brain Mapping) Annual Meeting 2021
 * Oxford-Radcliffe Graduate Scholarship
 * Christa-Lindner Award
 * The Data Lab Scholarship
 * Parlamentarisches Patenschafts-Programm (CBYX Scholarship)
+
+Presentations
+======
+* 2021 ISBA (International Society for Bayesian Analysis): Contributed Talk & Poster Presentation
+* 2021 OHBM (Organisation for Human Brain Mapping): Oral Presentation & Poster Presentation
   
 Extracurricular Activity 
 ======
